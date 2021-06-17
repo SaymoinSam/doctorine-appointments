@@ -1,0 +1,16 @@
+{
+  "name": "doctor_appointments-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "doctor_appointments-server.js",
+  "scripts": {
+    "start": "node doctor_appointments-server.js"
+  },
+  "author": "Jacob Saadi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "multiparty": "^4.2.2",
+    "mysql": "^2.18.1"
+  }
+}
